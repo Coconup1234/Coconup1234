@@ -18,4 +18,4 @@
   
 </div>
 
-![Anurag's GHLIFE stats](https://github-readme-stats.vercel.app/api?username=Coconup1234&show_icons=true&theme=radical)
+![Anurag's GHLIFE stats!](https://github-readme-stats.vercel.app/api?username=Coconup1234&show_icons=true&theme=radical)
